@@ -72,9 +72,6 @@ body{
 .ryu-throwing{
   background-image: url('../images/ryu-throwing-hadouken.png');  
 }
-.ryu-cool{
-  background-image: url('../images/ryu-cool.gif');
-}
 
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
   background-repeat: no-repeat;
